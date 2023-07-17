@@ -4,9 +4,9 @@
 - 👯 I’m looking to collaborate in working with financial 💵 data.
 - ⚡ Fun fact: I am a Marvel/ MCU fan.
 
-<!-- ![Corey's GitHub stats](https://github-readme-stats.vercel.app/api?username=coatk1&show_icons=true&theme=graywhite)
- -->
-![Corey's GitHub stats](https://github-readme-stats.vercel.app/api?username=coatk1&show_icons=true&theme=graywhite&count_private=false)
+<!-- ![Corey's GitHub stats](https://github-readme-stats.vercel.app/api?username=coatk1&show_icons=true&theme=graywhite) -->
+
+<!-- ![Corey's GitHub stats](https://github-readme-stats.vercel.app/api?username=coatk1&show_icons=true&theme=graywhite&count_private=false) -->
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coatk1&langs_count=10&layout=compact)](https://github.com/coatk1/github-readme-stats)
 
