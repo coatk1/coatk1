@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on building and deploying 🛠️ `python` packages to Anaconda 🐍.
-- 👯 I’m looking to collaborate in working with financial 💵 data.
+- :passport_control: I’m looking to collaborate in working with financial 💵 data.
 - ⚡ Fun fact: I am a Marvel/ MCU fan.
 
 <!-- ![Corey's GitHub stats](https://github-readme-stats.vercel.app/api?username=coatk1&show_icons=true&theme=graywhite) -->
